@@ -1,2 +1,2 @@
 # Email-demo
-Html email demo project
+HTML email demo project.
